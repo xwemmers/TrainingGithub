@@ -1,0 +1,7 @@
+# deze bestanden mogen niet naar de server toe
+# bv logging files
+# node_modules (Angular, Vue)
+
+secret.txt
+*.log
+/private
