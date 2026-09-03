@@ -2,7 +2,7 @@
 
 // var dieren = ['Lion', 'Elephant', 'Tiger', 'Wolf', 'Sheep', 'Bear', 'Monkey', 'Eagle', 'Panda', 'Hippo', 'Shark', 'Rhino', 'Turtle'];
 
-var dieren = ['Lion', 'Elephant', 'Tiger', 'Wolf'];
+var dieren = ['Lion', 'Elephant', 'Tiger', 'Wolf', 'Sheep', 'Bear'];
 
 var index = 0;
 
